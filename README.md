@@ -4,7 +4,6 @@
 This project focuses on analyzing the relationships between various symptoms and diagnoses using a provided dataset. The analysis involves correlation studies, group analysis, contingency tables, and chi-square tests to identify significant associations and patterns within the data.
 
 ## Table of Contents
-- [Project Structure](#project-structure)
 - [Installation](#installation)
 - [Usage](#usage)
 - [Data](#data)
@@ -14,17 +13,6 @@ This project focuses on analyzing the relationships between various symptoms and
 - [Contributing](#contributing)
 - [License](#license)
 - [Contact](#contact)
-
-## Project Structure
-root/
-├── data/
-│ └── symptoms_diagnoses.csv
-├── notebooks/
-│ └── Analysis.ipynb
-├── results/
-│ └── visualizations/
-├── README.md
-└── requirements.txt
 
 
 ## Installation
