@@ -18,11 +18,11 @@ This project focuses on analyzing the relationships between various symptoms and
 ## Project Structure
 root/
 ├── data/
-│   └── symptoms_diagnoses.csv
+│ └── symptoms_diagnoses.csv
 ├── notebooks/
-│   └── Analysis.ipynb
+│ └── Analysis.ipynb
 ├── results/
-│   └── visualizations/
+│ └── visualizations/
 ├── README.md
 └── requirements.txt
 
@@ -94,5 +94,5 @@ This project is licensed under the MIT License - see the LICENSE file for detail
 
 ## Contact
 For any questions or suggestions, please contact:
-- Name: [Your Name]
+- Name: [Md Rakibul Islam]
 - Email: [raki893@gmail.com]
